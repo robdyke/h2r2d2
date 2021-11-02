@@ -21,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
   # author: ["Me", "You"] # multiple authors
-  images: ["static/rdprofile.jpg"]
+  images: ["/rdprofile.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -58,7 +58,7 @@ params:
     enabled: false # needs to be explicitly set
     title: ExampleSite
     subtitle: "This is subtitle"
-    imageUrl: "static/rdprofile.jpg"
+    imageUrl: "/rdprofile.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -90,13 +90,12 @@ params:
   #     SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
-    image: "static/rdprofile.jpg"
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: trfalseue # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   editPost:
-    URL: "https://github.com/robdyke/h2r2d2/content"
+    URL: "https://github.com/robdyke/h2r2d2/blob/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

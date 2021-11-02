@@ -7,7 +7,8 @@ categories:
 tags:
   - Open Source
   - NHSbuntu
-#cover: /images/banner/nhos_banner_blue.png
+cover:
+  image: /images/banner/nhos_banner_blue.png
 ---
 
 Marcus and I had a busy summer, what with holidays, hospitals, hacks (days/weeks/camps) and house moves. I'd like you to accept this post with our apologies for being relatively quiet recently. Now, without further ado, here’s an update on all things NHSbuntu. 

@@ -7,7 +7,8 @@ categories:
 tags:
   - Open Source
   - NHSbuntu
-#cover: /images/banner/nhos_banner_blue.png
+cover:
+  image: /images/banner/nhos_banner_blue.png
 ---
 
 Here are the materials I shared with [NHS CIO Will Smart](https://twitter.com/nhscio) and Alex Chaplin in October. NHoS were invited back by Will Smart to discuss the 'What's Next' in more detail.[^1]
