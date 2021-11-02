@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://robdyke.com/h2r2d2/sitemap.xml

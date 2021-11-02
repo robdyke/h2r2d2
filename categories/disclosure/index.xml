@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Disclosure on this is rob dyke dot com</title>
+    <link>https://robdyke.com/h2r2d2/categories/disclosure/</link>
+    <description>Recent content in Disclosure on this is rob dyke dot com</description>
+    <image>
+      <url>https://robdyke.com/rdprofile.jpg</url>
+      <link>https://robdyke.com/rdprofile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://robdyke.com/h2r2d2/categories/disclosure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No Good Deed Goes Unpunished</title>
+      <link>https://robdyke.com/h2r2d2/posts/2021/no-good-deed-goes-unpunished/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2021/no-good-deed-goes-unpunished/</guid>
+      <description>Amor sementa in voi d&amp;#39;ogne virtute, e d&amp;#39;ogni operazion che merta pene</description>
+    </item>
+    
+    <item>
+      <title>Responsible Disclosure - Part 1</title>
+      <link>https://robdyke.com/h2r2d2/posts/2021/responsible-disclosure/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2021/responsible-disclosure/</guid>
+      <description>TL;DR. I found secret info on github, notified the owner, and found out the hard way that UK cyber law is broken. Part 1 of ...?</description>
+    </item>
+    
+  </channel>
+</rss>

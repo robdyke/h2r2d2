@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HANDI Health on this is rob dyke dot com</title>
+    <link>https://robdyke.com/h2r2d2/tags/handi-health/</link>
+    <description>Recent content in HANDI Health on this is rob dyke dot com</description>
+    <image>
+      <url>https://robdyke.com/rdprofile.jpg</url>
+      <link>https://robdyke.com/rdprofile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 09 Nov 2013 22:11:36 +0000</lastBuildDate><atom:link href="https://robdyke.com/h2r2d2/tags/handi-health/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HANDI - Selfish or Selfless: sorts of software for social systems</title>
+      <link>https://robdyke.com/h2r2d2/posts/2013/2013-11-09-handi-selfish-or-selfless-sorts-of-software-for-social-systems/</link>
+      <pubDate>Sat, 09 Nov 2013 22:11:36 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2013/2013-11-09-handi-selfish-or-selfless-sorts-of-software-for-social-systems/</guid>
+      <description>Presented to the HANDI Health Apps conference at EHILive 2013 and continuing my series of provocative and disruptive anti-presentations here I talk about approaches to developing, distributing and deploying software solutions in social systems. If you think this is an extended rant on the virtues of opensource, think again. Drawing on Mauss, Dawkins, Benkler, Chesbrough and others here I discuss how NHS organisations and software developers and vendors can each have cake and eat it.</description>
+    </item>
+    
+    <item>
+      <title>My HANDI Health &#39;live coding&#39; workshop.</title>
+      <link>https://robdyke.com/h2r2d2/posts/2013/2013-11-09-my-handi-health-live-coding-workshop/</link>
+      <pubDate>Sat, 09 Nov 2013 15:49:14 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2013/2013-11-09-my-handi-health-live-coding-workshop/</guid>
+      <description>&lt;h2 id=&#34;the-village&#34;&gt;The Village&lt;/h2&gt;
+&lt;p&gt;This last week I was at EHI Live with HANDI and Tactix4. HANDI were producing one of the streams at this exhibition &amp;lsquo;The HANDI Health Apps Conference&amp;rsquo;. HANDI Health Apps is the first national conference dedicated to health &amp;amp; social care apps and lightweight digital tools to take place in the UK.  It was a “must attend” event for app developers, health and care professionals, managers and commissioners who are seeking to understand how this new generation of digital tools can support the delivery of efficient, patient centred care. The conference included the HANDI-App Village located right in the centre of the EHI Live Exhibition providing a unique platform where health and care app developers can showcase their products without getting lost amongst the large stands of the major IT vendors.&lt;/p&gt;
+&lt;p&gt;And we had a village pub, serving real beer and excellent pork scratchings.&lt;/p&gt;
+&lt;p&gt;I thought it was a good idea to &amp;lsquo;live code&amp;rsquo; an app. In hind sight it was a good idea to &amp;lsquo;live code&amp;rsquo; an app and, except for the failure of the internet link, it would have worked well. Thankfully, as a child of Blue Peter, I had an app that I had made earlier prepared and ready installed on my device. With this APK file I was able to demo an app that scanned a barcode containing a URL and launch a browser. Here is the &lt;a href=&#34;http://www.robdyke.com/WWScan-QR.apk&#34;&gt;APK&lt;/a&gt; and here is the &lt;a href=&#34;http://www.robdyke.com/EhiLive.png&#34;&gt;QR code&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Digidoc 2012</title>
+      <link>https://robdyke.com/h2r2d2/posts/2012/2012-12-31-digidoc-2012/</link>
+      <pubDate>Mon, 31 Dec 2012 10:17:35 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2012/2012-12-31-digidoc-2012/</guid>
+      <description>&amp;lt;li class=&amp;quot;photonic-flickr-image photonic-flickr-photo photonic-pad-photos&amp;quot;&amp;gt; &amp;lt;a class=&#39;launch-gallery-fancybox fancybox&#39; rel=&#39;lightbox-photonic-flickr-stream-1&#39; href=&amp;quot;https://farm9.static.flickr.com/8485/8246080999_384d950a17_z.jpg&amp;quot; title=&amp;quot;&amp;lt;a href=&amp;amp;#039;https://www.flickr.com/photos/90867769@N08/8246080999&amp;amp;#039; &amp;gt;Afternoon Session - App Ideas Factories&amp;lt;/a&amp;gt;&amp;quot; &amp;gt;&amp;lt;img alt=&amp;quot;Afternoon Session - App Ideas Factories&amp;quot; src=&amp;quot;https://farm9.static.flickr.com/8485/8246080999_384d950a17_s.jpg&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;photonic-flickr-image photonic-flickr-photo photonic-pad-photos&amp;quot;&amp;gt; &amp;lt;a class=&#39;launch-gallery-fancybox fancybox&#39; rel=&#39;lightbox-photonic-flickr-stream-1&#39; href=&amp;quot;https://farm9.static.flickr.com/8490/8247148216_a818883076_z.jpg&amp;quot; title=&amp;quot;&amp;lt;a href=&amp;amp;#039;https://www.flickr.com/photos/90867769@N08/8247148216&amp;amp;#039; &amp;gt;Afternoon Session - App Ideas Factories&amp;lt;/a&amp;gt;&amp;quot; &amp;gt;&amp;lt;img alt=&amp;quot;Afternoon Session - App Ideas Factories&amp;quot; src=&amp;quot;https://farm9.static.flickr.com/8490/8247148216_a818883076_s.jpg&amp;quot; /&amp;gt;&amp;lt;/a&amp;gt; &amp;lt;/li&amp;gt; &amp;lt;li class=&amp;quot;photonic-flickr-image photonic-flickr-photo photonic-pad-photos&amp;quot;&amp;gt; &amp;lt;a class=&#39;launch-gallery-fancybox fancybox&#39; rel=&#39;lightbox-photonic-flickr-stream-1&#39; href=&amp;quot;https://farm9.static.flickr.com/8208/8247148334_3917262395_z.jpg&amp;quot; title=&amp;quot;&amp;lt;a href=&amp;amp;#039;https://www.flickr.com/photos/90867769@N08/8247148334&amp;amp;#039; &amp;gt;Afternoon Session - App Ideas Factories&amp;lt;/a&amp;gt;&amp;quot; &amp;gt;&amp;lt;img alt=&amp;quot;Afternoon Session - App Ideas Factories&amp;quot; src=&amp;quot;https://farm9.</description>
+    </item>
+    
+    <item>
+      <title>Talking HANDI and opensource</title>
+      <link>https://robdyke.com/h2r2d2/posts/2012/2012-12-31-talking-handi-and-opensource/</link>
+      <pubDate>Mon, 31 Dec 2012 10:17:35 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2012/2012-12-31-talking-handi-and-opensource/</guid>
+      <description>A couple of video interviews with me made with Pete Cogle from Inside Talking.
+      </description>
+    </item>
+    
+    <item>
+      <title>The HANDI approach to innovation.</title>
+      <link>https://robdyke.com/h2r2d2/posts/2012/2012-12-11-the-handi-approach-to-innovation/</link>
+      <pubDate>Tue, 11 Dec 2012 15:22:32 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2012/2012-12-11-the-handi-approach-to-innovation/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.guardian.co.uk/profile/dick-vinegar&#34;&gt;Dick Vinegar, the Patient From Hell&lt;/a&gt;, wrote about the &lt;a href=&#34;http://www.westminsterforumprojects.co.uk/forums/index.php?fid=westminster_health_forum&#34;&gt;Westminster Health Forum&lt;/a&gt; last month on &amp;ldquo;accelerating innovation in healthcare&amp;rdquo; at which I was presenting.&lt;/p&gt;
+&lt;p&gt;I gave a somewhat contrarian view on &amp;lsquo;innovation&amp;rsquo; with a few ideas on escaping the &lt;a href=&#34;http://www.guardian.co.uk/healthcare-network/2011/aug/11/hairball-nhs-technology-open&#34;&gt;NHS Giant Hairball&lt;/a&gt;. My presentation is published on slideshare and previewed below.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A few notes on the enthusiasm around healthcare IT</title>
+      <link>https://robdyke.com/h2r2d2/posts/2012/2012-07-06-a-few-notes-on-the-enthusiasm-around-healthcare-it/</link>
+      <pubDate>Fri, 06 Jul 2012 12:55:16 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2012/2012-07-06-a-few-notes-on-the-enthusiasm-around-healthcare-it/</guid>
+      <description>&lt;p&gt;There is a renewed vigor in healthcare IT. Lots of great projects curated by enthusiastic people, encouraging new thinking around the definition, development design and delivery of technology for healthcare. Here I&amp;rsquo;m thinking about &lt;a href=&#34;http://digihealthcon.wordpress.com/&#34;&gt;DigiHealthCon&lt;/a&gt;, &lt;a href=&#34;http://www.handihealth.net/&#34;&gt;HANDI&lt;/a&gt;, &lt;a href=&#34;http://nhshackday.com/&#34;&gt;NHS Hack Day&lt;/a&gt; and the &lt;a href=&#34;http://ehealthopensource.org/&#34;&gt;eHealthOpenSource&lt;/a&gt; competition and Pipe and Hat Club. I&amp;rsquo;m involved in three organisations: eHealth OpenSource as Secretary, HANDI as a co-founder and NHS Hack Day as a participant and advocate. When I&amp;rsquo;m not doing things relating to those three, I&amp;rsquo;m a Director of &lt;a href=&#34;http://www.tactix4.com/&#34;&gt;Tactix4 Limited&lt;/a&gt;, an opensource healthcare IT company. I thought I&amp;rsquo;d share some of my thinking about these projects and how I see them fitting together.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A problem with mHealth apps....</title>
+      <link>https://robdyke.com/h2r2d2/posts/2012/2012-03-23-a-problem-with-mhealth-apps/</link>
+      <pubDate>Fri, 23 Mar 2012 10:06:49 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2012/2012-03-23-a-problem-with-mhealth-apps/</guid>
+      <description>&lt;p&gt;From a thread on the handihealth discussion group.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/#!/medicine20&#34;&gt;@medicine20&lt;/a&gt; tweeted &amp;lsquo;&lt;a href=&#34;http://www.theatlantic.com/technology/archive/2012/03/the-reason-silicon-valley-hasnt-built-a-good-health-app/254229/&#34;&gt;The reason Silicon Valley hasn&amp;rsquo;t built a good health app&lt;/a&gt;&amp;rsquo;&lt;/p&gt;
+&lt;p&gt;The general thrust of the article is that current crop of popular mHealth reflect the needs and desires of particular socio-economic groups: white, suburban, materially secure, educated technologists creating apps that compliment the gym going, lifestyle jogging hipsters. Apps become the technological expressions of the &amp;lsquo;quantified self&amp;rsquo; of the developers - &amp;ldquo;Homogenous teams of innovators make products for people just like them. And that&amp;rsquo;s a problem.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Perhaps this &amp;lsquo;quantified self&amp;rsquo; analysis misses for the point, for not just the old and cynical but for the vast majority of the population : &amp;ldquo;After all, we build what we know.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Here&#39;s HANDI Health</title>
+      <link>https://robdyke.com/h2r2d2/posts/2012/2012-03-05-heres-handi-health/</link>
+      <pubDate>Mon, 05 Mar 2012 16:18:43 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/posts/2012/2012-03-05-heres-handi-health/</guid>
+      <description>&lt;p&gt;This month I co-founded &lt;a href=&#34;http://www.handihealth.net/about-2&#34;&gt;HANDI, a new not-for-profit venture. - The Healthcare App Network for Development and Innovation&lt;/a&gt; with a few others in the healthcare sector.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.handihealth.net/about-2/whose-behind-handi&#34;&gt;We are a group of clinicians, developers, health informaticians and others&lt;/a&gt; who believe that lightweight healthcare apps for patients, carers and health and care professionals provide the key to enabling IT to transform of health and care.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://handihealth.net/forget-the-m-and-concentrate-on-the-paradigm/&#34;&gt;We believe that the app paradigm&lt;/a&gt; (which enables rapid development and deployment) is applicable on all devices and is not just about mobile.&lt;/p&gt;
+&lt;p&gt;We want to encourage and support app developers. We know from our own experience that creating an app and getting it widely used can be a painful experience and have decided to establish HANDI as a new organisation to provide mutual support for developers of health and care apps and others interested in this area and want to invite you to join us.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
