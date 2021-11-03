@@ -21,7 +21,7 @@ params:
   keywords: [Blog]
   author: "Rob Dyke"
   # author: ["Me", "You"] # multiple authors
-  images: ["/rdprofile.jpg"]
+  images: ["rdprofile.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -42,15 +42,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "favicon.ico"
-    favicon16x16: "favicon-16x16.png"
-    favicon32x32: "favicon-32x32.png"
-    apple_touch_icon: "apple-icon.png"
-    safari_pinned_tab: "apple-icon.png"
+    # favicon: "favicon.ico"
+    # favicon16x16: "favicon-16x16.png"
+    # favicon32x32: "favicon-32x32.png"
+    # apple_touch_icon: "apple-icon.png"
+    # safari_pinned_tab: "apple-icon.png"
 
   label:
     text: "Home"
-    icon: /apple-icon.png
+    icon: logo.png
     iconHeight: 35
 
   # profile-mode
@@ -58,7 +58,7 @@ params:
     enabled: true # needs to be explicitly set
     title: rob dyke dot com
     subtitle: 
-    imageUrl: "/rdprofile.jpg"
+    imageUrl: "rdprofile.jpg"
     imageWidth: 150
     imageHeight: 150
     imageTitle: rob dyke dot com
