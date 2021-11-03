@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech on this is rob dyke dot com</title>
-    <link>https://robdyke.com/h2r2d2/tags/tech/</link>
+    <link>https://robdyke.com/tags/tech/</link>
     <description>Recent content in Tech on this is rob dyke dot com</description>
     <image>
-      <url>https://robdyke.com/h2r2d2/rdprofile.jpg</url>
-      <link>https://robdyke.com/h2r2d2/rdprofile.jpg</link>
+      <url>https://robdyke.com/rdprofile.jpg</url>
+      <link>https://robdyke.com/rdprofile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Apr 2011 15:55:24 +0000</lastBuildDate><atom:link href="https://robdyke.com/h2r2d2/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Apr 2011 15:55:24 +0000</lastBuildDate><atom:link href="https://robdyke.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Shrew Soft VPN client with a Cisco RV 120W</title>
-      <link>https://robdyke.com/h2r2d2/posts/2011/2011-04-24-using-shrew-soft-vpn-client-with-a-cisco-rv-120w/</link>
+      <link>https://robdyke.com/posts/2011/2011-04-24-using-shrew-soft-vpn-client-with-a-cisco-rv-120w/</link>
       <pubDate>Sun, 24 Apr 2011 15:55:24 +0000</pubDate>
       
-      <guid>https://robdyke.com/h2r2d2/posts/2011/2011-04-24-using-shrew-soft-vpn-client-with-a-cisco-rv-120w/</guid>
+      <guid>https://robdyke.com/posts/2011/2011-04-24-using-shrew-soft-vpn-client-with-a-cisco-rv-120w/</guid>
       <description>&lt;p&gt;After much fruitless searching for helpful documentation to assist me in setting up the VPN services on a &lt;a href=&#34;http://www.cisco.com/en/US/products/ps10852/index.html&#34;&gt;Cisco RV 120W&lt;/a&gt; to work with the open source client from &lt;a href=&#34;http://www.shrew.net/&#34;&gt;Shrew Soft&lt;/a&gt;, I thought I&amp;rsquo;d better make a post here to help others.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m setting up the VPN to use xauth (usernames and passwords) to authenticate sessions. I want to allow DNS/WINS through the VPN tunnel and I want to allow &amp;lsquo;split tunnelling&amp;rsquo; so that internet access still functions while the tunnel is up.&lt;/p&gt;
 &lt;p&gt;I found a very helpful PDF guide to getting the Cisco device configured from [After much fruitless searching for helpful documentation to assist me in setting up the VPN services on a &lt;a href=&#34;http://www.cisco.com/en/US/products/ps10852/index.html&#34;&gt;Cisco RV 120W&lt;/a&gt; to work with the open source client from &lt;a href=&#34;http://www.shrew.net/&#34;&gt;Shrew Soft&lt;/a&gt;, I thought I&amp;rsquo;d better make a post here to help others.&lt;/p&gt;
@@ -27,20 +27,20 @@
     
     <item>
       <title>Central home directories on a linux server - robdyke.com wikwikwah</title>
-      <link>https://robdyke.com/h2r2d2/posts/2006/2006-08-29-central-home-directories-on-a-linux-server-robdykecom-wikwikwah/</link>
+      <link>https://robdyke.com/posts/2006/2006-08-29-central-home-directories-on-a-linux-server-robdykecom-wikwikwah/</link>
       <pubDate>Tue, 29 Aug 2006 22:20:08 +0000</pubDate>
       
-      <guid>https://robdyke.com/h2r2d2/posts/2006/2006-08-29-central-home-directories-on-a-linux-server-robdykecom-wikwikwah/</guid>
+      <guid>https://robdyke.com/posts/2006/2006-08-29-central-home-directories-on-a-linux-server-robdykecom-wikwikwah/</guid>
       <description>I have been working with Jon solving some file and print puzzles for the network that he manages. The network has Windows XP and Apple OS X clients and provides services from a Suse server running OpenLDAP for authentication and Samba for file and print.
 The little puzzle we have been working on has been incorporating the Apple OS X machines into the authenticated file and print network. Connecting the eMacs to the wider network would provide more services to the users of the machines and give Jon less management and security headaches over the current local users / afp-island that the machines currently live in.</description>
     </item>
     
     <item>
       <title>Congestion Charging London</title>
-      <link>https://robdyke.com/h2r2d2/posts/2006/2006-04-15-congestion-charging-london/</link>
+      <link>https://robdyke.com/posts/2006/2006-04-15-congestion-charging-london/</link>
       <pubDate>Sat, 15 Apr 2006 11:37:28 +0000</pubDate>
       
-      <guid>https://robdyke.com/h2r2d2/posts/2006/2006-04-15-congestion-charging-london/</guid>
+      <guid>https://robdyke.com/posts/2006/2006-04-15-congestion-charging-london/</guid>
       <description>What&amp;rsquo;s going on in this picture?
 
 That&amp;rsquo;s what I thought when I was walking along Praed Street recently. So I had an investigate and I discovered that engineers were pulling cable to link up new cameras for the western extension of the congestion charge zone. Now this is some network: have a read of this Transport for London - Fact sheet. &amp;ldquo;No image will travel more than 20 kilometres from any point within the charging zone&amp;rdquo; over a fibre optic data network provided by Colt and BT.</description>

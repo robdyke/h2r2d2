@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>EHIlive 2013 on this is rob dyke dot com</title>
-    <link>https://robdyke.com/h2r2d2/tags/ehilive-2013/</link>
+    <link>https://robdyke.com/tags/ehilive-2013/</link>
     <description>Recent content in EHIlive 2013 on this is rob dyke dot com</description>
     <image>
-      <url>https://robdyke.com/h2r2d2/rdprofile.jpg</url>
-      <link>https://robdyke.com/h2r2d2/rdprofile.jpg</link>
+      <url>https://robdyke.com/rdprofile.jpg</url>
+      <link>https://robdyke.com/rdprofile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Nov 2013 15:49:14 +0000</lastBuildDate><atom:link href="https://robdyke.com/h2r2d2/tags/ehilive-2013/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Nov 2013 15:49:14 +0000</lastBuildDate><atom:link href="https://robdyke.com/tags/ehilive-2013/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My HANDI Health &#39;live coding&#39; workshop.</title>
-      <link>https://robdyke.com/h2r2d2/posts/2013/2013-11-09-my-handi-health-live-coding-workshop/</link>
+      <link>https://robdyke.com/posts/2013/2013-11-09-my-handi-health-live-coding-workshop/</link>
       <pubDate>Sat, 09 Nov 2013 15:49:14 +0000</pubDate>
       
-      <guid>https://robdyke.com/h2r2d2/posts/2013/2013-11-09-my-handi-health-live-coding-workshop/</guid>
+      <guid>https://robdyke.com/posts/2013/2013-11-09-my-handi-health-live-coding-workshop/</guid>
       <description>&lt;h2 id=&#34;the-village&#34;&gt;The Village&lt;/h2&gt;
 &lt;p&gt;This last week I was at EHI Live with HANDI and Tactix4. HANDI were producing one of the streams at this exhibition &amp;lsquo;The HANDI Health Apps Conference&amp;rsquo;. HANDI Health Apps is the first national conference dedicated to health &amp;amp; social care apps and lightweight digital tools to take place in the UK.  It was a “must attend” event for app developers, health and care professionals, managers and commissioners who are seeking to understand how this new generation of digital tools can support the delivery of efficient, patient centred care. The conference included the HANDI-App Village located right in the centre of the EHI Live Exhibition providing a unique platform where health and care app developers can showcase their products without getting lost amongst the large stands of the major IT vendors.&lt;/p&gt;
 &lt;p&gt;And we had a village pub, serving real beer and excellent pork scratchings.&lt;/p&gt;

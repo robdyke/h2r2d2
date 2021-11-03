@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>evilrob on this is rob dyke dot com</title>
-    <link>https://robdyke.com/h2r2d2/categories/evilrob/</link>
+    <link>https://robdyke.com/categories/evilrob/</link>
     <description>Recent content in evilrob on this is rob dyke dot com</description>
     <image>
-      <url>https://robdyke.com/h2r2d2/rdprofile.jpg</url>
-      <link>https://robdyke.com/h2r2d2/rdprofile.jpg</link>
+      <url>https://robdyke.com/rdprofile.jpg</url>
+      <link>https://robdyke.com/rdprofile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Apr 2020 20:53:03 +0100</lastBuildDate><atom:link href="https://robdyke.com/h2r2d2/categories/evilrob/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Apr 2020 20:53:03 +0100</lastBuildDate><atom:link href="https://robdyke.com/categories/evilrob/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lockdown Mix 1</title>
-      <link>https://robdyke.com/h2r2d2/posts/2020/2020-04-12-lockdown-mix-1/</link>
+      <link>https://robdyke.com/posts/2020/2020-04-12-lockdown-mix-1/</link>
       <pubDate>Sun, 12 Apr 2020 20:53:03 +0100</pubDate>
       
-      <guid>https://robdyke.com/h2r2d2/posts/2020/2020-04-12-lockdown-mix-1/</guid>
+      <guid>https://robdyke.com/posts/2020/2020-04-12-lockdown-mix-1/</guid>
       <description>  </description>
     </item>
     

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>TeX on this is rob dyke dot com</title>
-    <link>https://robdyke.com/h2r2d2/tags/tex/</link>
+    <link>https://robdyke.com/tags/tex/</link>
     <description>Recent content in TeX on this is rob dyke dot com</description>
     <image>
-      <url>https://robdyke.com/h2r2d2/rdprofile.jpg</url>
-      <link>https://robdyke.com/h2r2d2/rdprofile.jpg</link>
+      <url>https://robdyke.com/rdprofile.jpg</url>
+      <link>https://robdyke.com/rdprofile.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 05 Nov 2007 11:53:58 +0000</lastBuildDate><atom:link href="https://robdyke.com/h2r2d2/tags/tex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Nov 2007 11:53:58 +0000</lastBuildDate><atom:link href="https://robdyke.com/tags/tex/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TeX &amp;tc...</title>
-      <link>https://robdyke.com/h2r2d2/posts/2007/2007-11-05-tex-tc/</link>
+      <link>https://robdyke.com/posts/2007/2007-11-05-tex-tc/</link>
       <pubDate>Mon, 05 Nov 2007 11:53:58 +0000</pubDate>
       
-      <guid>https://robdyke.com/h2r2d2/posts/2007/2007-11-05-tex-tc/</guid>
+      <guid>https://robdyke.com/posts/2007/2007-11-05-tex-tc/</guid>
       <description>&lt;p&gt;Here are some quick links into the &lt;a href=&#34;http://www.tex.ac.uk/cgi-bin/texfaq2html?introduction=yes&#34;&gt;TeX User Group Frequently Asked Questions&lt;/a&gt; pages for people to find out more about this software and its uses. If Goldsmiths students want some help and support in getting started with TeX then drop me an email and I&amp;rsquo;ll do my best to help you!&lt;/p&gt;
 &lt;p&gt;[&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>making my essays look really hot</title>
-      <link>https://robdyke.com/h2r2d2/posts/2007/2007-11-04-making-my-essays-look-really-hot/</link>
+      <link>https://robdyke.com/posts/2007/2007-11-04-making-my-essays-look-really-hot/</link>
       <pubDate>Sun, 04 Nov 2007 23:16:39 +0000</pubDate>
       
-      <guid>https://robdyke.com/h2r2d2/posts/2007/2007-11-04-making-my-essays-look-really-hot/</guid>
+      <guid>https://robdyke.com/posts/2007/2007-11-04-making-my-essays-look-really-hot/</guid>
       <description>(even if the content could do with some more work&amp;hellip;)
 I&amp;rsquo;ve not used TeX for several months&amp;hellip; getting to grips with it again today has reminded me of the value of practice in developing a skill. Thankfully I still had all my outline templates from earlier in the year so I had a skeleton to work from.
 I am using a basic article template with Helvetica font. My references use the Harvard family of bibliographic styles.</description>
