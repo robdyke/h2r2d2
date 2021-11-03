@@ -1,4 +1,4 @@
-baseURL: "https://robdyke.com/h2r2d2"
+baseURL: "https://robdyke.com/h2r2d2/"
 title: this is rob dyke dot com
 paginate: 10
 theme: PaperMod
@@ -23,7 +23,7 @@ params:
   keywords: [Blog]
   author: "Rob Dyke"
   # author: ["Me", "You"] # multiple authors
-  images: ["rdprofile.jpg"]
+  images: ["/rdprofile.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -52,7 +52,7 @@ params:
 
   label:
     text: "Home"
-    icon: logo.png
+    icon: /logo.png
     iconHeight: 35
 
   # profile-mode
@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: rob dyke dot com
     subtitle: 
-    imageUrl: "rdprofile.jpg"
+    imageUrl: "/rdprofile.jpg"
     imageWidth: 150
     imageHeight: 150
     imageTitle: rob dyke dot com
