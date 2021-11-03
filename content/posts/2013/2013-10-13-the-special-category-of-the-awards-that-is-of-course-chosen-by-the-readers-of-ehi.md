@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-10-13T22:16:32Z"
 title: the special category of the awards that is, of course, chosen by the readers
   of EHI

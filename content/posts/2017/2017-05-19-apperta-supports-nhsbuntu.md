@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2017-05-19T00:00:00Z"
 title: Apperta Foundation supports NHSbuntu development
 categories:

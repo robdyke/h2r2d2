@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2004-08-16T17:10:50Z"
 categories:
   - Community Wifi

@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-09-08T10:17:08Z"
 tags:
 - Sarah Teather

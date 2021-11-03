@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2017-03-27T00:00:00Z"
 title: Why NHSbuntu?
 categories:

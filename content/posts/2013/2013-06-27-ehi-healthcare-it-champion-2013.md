@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-06-27T13:40:56Z"
 title: EHI Healthcare IT Champion 2013
 tags:

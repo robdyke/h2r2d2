@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2008-12-24T17:34:06Z"
 enclosure:
 - |

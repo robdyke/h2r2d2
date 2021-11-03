@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2012-07-06T12:55:16Z"
 tags:
 - HANDI Health

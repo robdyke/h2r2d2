@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-11-05T17:49:50Z"
 tags:
 - HSCIC

@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-11-09T22:11:36Z"
 tags:
 - CIC

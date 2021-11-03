@@ -1,6 +1,6 @@
-baseURL: "https://robdyke.com/h2r2d2/"
+baseURL: "https://robdyke.com/h2r2d2"
 title: this is rob dyke dot com
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -16,10 +16,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  title: rob dyke dot com
+  description: "this is rob dyke dot com"
+  keywords: [Blog]
+  author: "Rob Dyke"
   # author: ["Me", "You"] # multiple authors
   images: ["/rdprofile.jpg"]
   DateFormat: "January 2, 2006"
@@ -42,26 +42,26 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon: "favicon.ico"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-icon.png"
+    safari_pinned_tab: "apple-icon.png"
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
+    icon: /apple-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
-    title: ExampleSite
-    subtitle: "This is subtitle"
+    enabled: true # needs to be explicitly set
+    title: rob dyke dot com
+    subtitle: 
     imageUrl: "/rdprofile.jpg"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
+    imageWidth: 150
+    imageHeight: 150
+    imageTitle: rob dyke dot com
     buttons:
       - name: Posts
         url: posts
@@ -70,16 +70,27 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "this is rob dyke dot com 🐧"
+    Content: 
 
   socialIcons:
     - name: twitter
       url: "https://twitter.com/robdykedotcom"
-    # - name: stackoverflow
-    #   url: "https://stackoverflow.com"
+    - name: linkedin
+      url: "https://linkedin.com/in/RobDyke"
+    - name: keybase
+      url: "https://keybase.io/robdyke"
     - name: github
       url: "https://github.com/robdyke"
+    - name: gitlab
+      url: "https://gitlab.com/robdyke"
+    - name: bitbucket
+      url:  "https://bitbucket.com/robdykedotcom"
+    - name: soundcloud
+      url:  "https://soundcloud.com/evilrob"
+    - name: kofi
+      url: "https://ko-fi.com/robdyke"
+    
 
   # analytics:
   #   google:
@@ -91,7 +102,7 @@ params:
 
   cover:
     hidden: false # hide everywhere but not in structured data
-    hiddenInList: trfalseue # hide on list pages and home
+    hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
   editPost:
@@ -111,14 +122,18 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: about
+      name: about
+      url: /about/
       weight: 10
     - identifier: tags
       name: tags
       url: /tags/
       weight: 20
+    - identifier: search
+      name: search
+      url: /search/
+      weight: 30
     # - identifier: example
     #   name: example.org
     #   url: https://example.org

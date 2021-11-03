@@ -1,7 +1,7 @@
 ---
 date: '2021-08-18'
 title: Responsible Disclosure - Part 3
-authors: [ robdyke ]
+author: "Rob Dyke"
 slug: responsible-disclosure-3
 categories: Disclosure
 tags: null

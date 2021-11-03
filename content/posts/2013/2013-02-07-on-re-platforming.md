@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-02-07T14:32:42Z"
 title: on re-platforming....
 ---

@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2007-10-23T22:32:23Z"
 categories:
   - No Overall Control

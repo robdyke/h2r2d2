@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2014-07-14T12:00:52Z"
 title: Neova Health acquire Tactix4
 tags:

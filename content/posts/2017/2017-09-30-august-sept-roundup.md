@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2017-09-30T00:00:00Z"
 title: A long overdue summer summary
 categories:

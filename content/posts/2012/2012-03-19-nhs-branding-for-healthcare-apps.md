@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2012-03-19T10:36:32Z"
 tags:
 - NHS

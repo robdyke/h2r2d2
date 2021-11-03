@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2017-06-19T00:00:00Z"
 title: Making NHSbuntu
 categories:

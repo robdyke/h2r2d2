@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2017-10-10T00:00:00Z"
 title: NHSCIO Show and Tell
 categories:

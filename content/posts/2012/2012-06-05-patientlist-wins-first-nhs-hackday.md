@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2012-06-05T13:56:37Z"
 tags:
 - NHS Hackday

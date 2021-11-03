@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: 2020-04-08T00:20:32+01:00
 tags:
 - Open Source

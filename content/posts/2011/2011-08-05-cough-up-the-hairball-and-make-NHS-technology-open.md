@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2011-08-05T16:10:02Z"
 tags:
 - Open Source

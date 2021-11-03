@@ -1,7 +1,7 @@
 ---
 date: '2021-08-20'
 title: No Good Deed Goes Unpunished
-authors: [ robdyke ]
+author: "Rob Dyke"
 slug: no-good-deed-goes-unpunished
 categories: Disclosure
 tags: null

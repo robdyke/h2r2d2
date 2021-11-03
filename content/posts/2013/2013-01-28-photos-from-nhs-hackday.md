@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-01-28T18:06:03Z"
 title: photos from NHS Hackday
 tags:

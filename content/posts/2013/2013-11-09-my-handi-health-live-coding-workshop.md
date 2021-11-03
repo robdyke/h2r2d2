@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-11-09T15:49:14Z"
 tags:
 - EHIlive 2013

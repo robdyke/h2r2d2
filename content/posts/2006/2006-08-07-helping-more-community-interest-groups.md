@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2006-08-07T10:19:08Z"
 categories:
   - Brent East Campaigning

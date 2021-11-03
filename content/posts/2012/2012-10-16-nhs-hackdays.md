@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2012-10-16T14:00:27Z"
 title: Videos from NHS Hackdays
 tags:

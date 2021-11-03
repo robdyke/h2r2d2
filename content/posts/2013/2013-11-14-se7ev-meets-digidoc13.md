@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-11-14T14:18:00Z"
 title: 'Se7ev meets #digidoc13'
 ---

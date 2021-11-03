@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2013-01-28T15:51:38Z"
 title: NHSHackday 3 - Video consultations for healthcare
 tags:

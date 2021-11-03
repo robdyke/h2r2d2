@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2012-12-16T18:11:38Z"
 tags:
 - Tactix4

@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2018-01-17T00:00:00Z"
 title: NHoS Closedown - the final straw
 categories:

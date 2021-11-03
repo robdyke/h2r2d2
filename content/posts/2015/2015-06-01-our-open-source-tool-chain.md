@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2015-06-01T20:15:14Z"
 tags:
 - Neova Health

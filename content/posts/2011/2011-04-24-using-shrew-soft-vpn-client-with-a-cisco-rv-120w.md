@@ -1,5 +1,5 @@
 ---
-authors: ["robdyke"]
+author: "Rob Dyke"
 date: "2011-04-24T15:55:24Z"
 excerpt: After much fruitless searching for helpful documentation to assist me in
   setting up the VPN services on a Cisco RV 120W to work with the open source client
