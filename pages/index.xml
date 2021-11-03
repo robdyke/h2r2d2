@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on this is rob dyke dot com</title>
+    <link>https://robdyke.com/h2r2d2/pages/</link>
+    <description>Recent content in Pages on this is rob dyke dot com</description>
+    <image>
+      <url>https://robdyke.com/rdprofile.jpg</url>
+      <link>https://robdyke.com/rdprofile.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://robdyke.com/h2r2d2/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ABout</title>
+      <link>https://robdyke.com/h2r2d2/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/pages/about/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

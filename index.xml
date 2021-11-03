@@ -874,10 +874,10 @@ Some more celebrity messages for Team Labour attacking the Tories from Jo Brand 
     
     <item>
       <title>Labour voter goodie bags</title>
-      <link>https://robdyke.com/h2r2d2/posts/2010/2010-05-05-labour-voter-goodie-bags/</link>
+      <link>https://robdyke.com/h2r2d2/posts/2010/labour-voter-goodie-bags/</link>
       <pubDate>Wed, 05 May 2010 17:29:14 +0000</pubDate>
       
-      <guid>https://robdyke.com/h2r2d2/posts/2010/2010-05-05-labour-voter-goodie-bags/</guid>
+      <guid>https://robdyke.com/h2r2d2/posts/2010/labour-voter-goodie-bags/</guid>
       <description>As seen in Mapesbury, junction of Olive and Snyed Roads.</description>
     </item>
     
@@ -4683,6 +4683,26 @@ How To Run a Weblog on Behalf of Your MP</description>
       <guid>https://robdyke.com/h2r2d2/posts/2004/2004-06-15-sarah-teather-is-my-mp/</guid>
       <description>I live in the constituency of Brent East and I have the pleasure of being served in the House of Commons by Sarah Teather MP; the youngest member of parliment.</description>
     </item>
+    
+    <item>
+      <title>ABout</title>
+      <link>https://robdyke.com/h2r2d2/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/pages/about/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://robdyke.com/h2r2d2/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://robdyke.com/h2r2d2/about/</guid>
+      <description>I&amp;rsquo;m a long time open source hacker. A decade of my career was in NHSland where I co-founded open eObs and made NHoS / NHSbuntu - an OS for the NHS. These days I research the security and privacy of apps listed in the NHS Apps Library.
+I registered robdyke.com on the 19th August 2000. Amalgated here Here are the all the posts I’ve written since I started blogging in 2004.</description>
+    </item>
+    
     
   </channel>
 </rss>
