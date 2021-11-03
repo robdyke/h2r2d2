@@ -3,6 +3,8 @@ title: this is rob dyke dot com
 paginate: 10
 theme: PaperMod
 
+canonifyURLs: true
+
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
