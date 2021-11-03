@@ -1,4 +1,4 @@
-baseURL: "https://robdyke.com/h2r2d2/"
+baseURL: "https://robdyke.com/"
 title: this is rob dyke dot com
 paginate: 10
 theme: PaperMod
@@ -124,15 +124,15 @@ menu:
   main:
     - identifier: about
       name: about
-      url: about/
+      url: /about/
       weight: 10
     - identifier: tags
       name: tags
-      url: tags/
+      url: /tags/
       weight: 20
     - identifier: search
       name: search
-      url: search/
+      url: /search/
       weight: 30
     # - identifier: example
     #   name: example.org
