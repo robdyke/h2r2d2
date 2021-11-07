@@ -28,8 +28,8 @@ params:
 
   ShowReadingTime: true
   ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
   disableSpecial1stPost: false
   disableScrollToTop: false
@@ -51,16 +51,16 @@ params:
   label:
     text: "Home"
     icon: "/logo.png"
-    iconHeight: 35
+    iconHeight: 35px
 
   # profile-mode
   profileMode:
-    enabled: true # needs to be explicitly set
+    enabled: false # needs to be explicitly set
     title: rob dyke dot com
     subtitle: 
     imageUrl: "/rdprofile.jpg"
-    imageWidth: 150
-    imageHeight: 150
+    # imageWidth: 150px
+    # imageHeight: 150px
     imageTitle: rob dyke dot com
     buttons:
       - name: Posts
