@@ -1,15 +1,18 @@
 ---
 date: "2020-03-29T00:00:00Z"
-title: "Democratic capital"
-authors: [robdyke]
+title: Democratic capital
+authors:
+  - robdyke
 categories:
   - BA Politics
 tags:
-    - Third Year
-    - New Radical Political Economy
+  - Third Year
+  - New Radical Political Economy
 toc: true
-description: I wrote this essay in my third-year of my BA Politics, back in 2008. The module was 'New Radical Political Economy', taught by Dr Derek Wall.
+description: "I wrote this essay in my third-year of my BA Politics, back in 2008. The module was 'New Radical Political Economy', taught by Dr Derek Wall."
+lastmod: "2021-11-14T19:12:37.847Z"
 ---
+
 > “What matters in the world is money, machines and people, in that
 > order. Our political task is to reverse the order.” Keith Hart[^1]
 
@@ -76,8 +79,7 @@ examination, by democracy I am thinking in terms of decision-making and
 governance on the one hand and in terms of access to capital and
 financial services on the other.
 
-Money: Global, Social and Virtual
-=================================
+# Money: Global, Social and Virtual
 
 > “Most of the confusion existing in monetary theory \[is\] due to the
 > separation of politics and economics, this outstanding characteristic
@@ -98,7 +100,7 @@ not the commodity exchanged. That money can take a material presence in
 the form of cash merely disguises the fact that money doesn’t exist,
 only currencies exist physically. This may seem like an obvious
 distinction but it is a necessary one to make in order to de-couple
-money, a *medium* of exchange, from capital and capitalism, a *system*
+money, a _medium_ of exchange, from capital and capitalism, a _system_
 of exchange.
 
 Money is a social construction. The classical liberal economic narrative
@@ -119,8 +121,8 @@ whole of the global banking system.[^4] Increasingly the cash currency
 used for daily transactions is being virtualised with smart-card
 technology.[^5] To say that money has always been virtual is to
 recognise the purpose of money in a global society. Money is virtual,
-according to Keith Hart, because it is a *symbol*, the medium rather
-than the *object* of exchange. That the accumulation of money, that is
+according to Keith Hart, because it is a _symbol_, the medium rather
+than the _object_ of exchange. That the accumulation of money, that is
 to say the creating and increasing of profit for wealth, has come to
 dominate exchange in a marketplace is due to the pervasive nature of
 capitalism. There is a second sense in which money is virtual: Karl
@@ -166,8 +168,7 @@ institutional practice of the creation of wealth embodied in the banking
 industry, sanctioned and guarenteed by the coercive force of the state,
 that I now turn.
 
-Institutions
-============
+# Institutions
 
 > ‘The process by which banks create money is so simple that the mind is
 > instantly repelled. Where something so important is involved, a deeper
@@ -194,7 +195,7 @@ deposits or for the facility of credit. The former promise bears less
 interest than the latter, reflecting, according to the rationale of the
 banking industry, the risk involved in extending that financial
 facility. This understanding of money is explored in the activist motion
-picture *Money as Debt*.[^11] However you don’t need to be a money-crank
+picture _Money as Debt_.[^11] However you don’t need to be a money-crank
 to accept the most basic argument presented in the film: banks create
 money through debt. The net difference between those two rates of
 interest (that paid on deposits and charged on credit facilities) when
@@ -227,7 +228,7 @@ A poor credit score translates into a higher rate of interest for
 credit, if credit is offered at all; indeed, a poor credit score is most
 likely to result in the exclusion of an individual from banking
 services, even from the most basic of bank accounts. There are no
-personal, that is to say *social*, relationships between the individual
+personal, that is to say _social_, relationships between the individual
 and his or her banking institution.
 
 A few further words on credit scoring are necessary before continuing.
@@ -242,7 +243,7 @@ with these agencies for data held on the applicant. This data probably
 includes information on prior credit requests, the status of existing or
 historical credit provisions - whether discharged or defaulted - and
 other indicators on the likelihood of repayment of any credit extended
-to the applicant. I say *probably* because the topic of this data is not
+to the applicant. I say _probably_ because the topic of this data is not
 public: credit scoring depends on a shroud of secrecy.[^13] The opacity
 of credit scoring agencies and the private nature of the emphasis each
 individual bank places on a particular aspect of this data contribute to
@@ -288,8 +289,7 @@ a closed loop in which the debtor or creditor has little to no
 involvement. In contrast to this privacy, these new models emphasis the
 participation of people, as customers, in the decision-making process.
 
-Case Study: Zopa
-----------------
+## Case Study: Zopa
 
 > “Lenders get great returns and borrowers get low-cost loans. And with
 > no bank in the middle, everyone get better rates and money becomes
@@ -373,11 +373,11 @@ part of the sociability of the Zopa business model is precisely the
 inter-personal relationships that govern the loan decision. While a
 high-street bank bases its decisions on inpersonal metrics, Zopa lenders
 in the marketplace base their decisions on any number of other
-factors…*perhaps I will not loan you the money for a season ticket for
+factors…_perhaps I will not loan you the money for a season ticket for
 your team because I support another team…perhaps I will loan you money
 for a further education course because you intend to study a similar
 course or at the same institution that I did…I’ll loan you money for a
-new car but not not for a motorcycle as I think they are dangerous…* In
+new car but not not for a motorcycle as I think they are dangerous…_ In
 this sense Zopa is not masking the social world; the purpose of the loan
 and the readiness of the borrower to talk about themselves and the
 instrumentality the money will give them makes ‘money human again’…if
@@ -410,15 +410,14 @@ challenge to the long-term viability of traditional high-street lenders.
 In the event of a widespread economic recession the challenge to Zopa
 would be different to that of traditional lenders. Zopa may even
 outperform others in the debt industry in the event of a liquidity
-crisis in the wider capital markets - remember Zopa *facilitates* p2p
+crisis in the wider capital markets - remember Zopa _facilitates_ p2p
 transactions rather than extending credit directly. The challenge to
 Zopa’s business would be to continue to make the money needed for its
 business to operate through its 0.5% service charge: if people do not
 borrow, lend or can not afford to repay loans the Zopa model would
 foreclose on itself.
 
-Case Study: Kiva
-----------------
+## Case Study: Kiva
 
 > “You lend to a specific entrepreneur in the developing world -
 > empowering them to lift themselves out of poverty.”[^20]
@@ -477,7 +476,7 @@ our social existance are central to Kiva model. Kiva money is global in
 a way that Zopa is not - Kiva loans do not require ‘protection by the
 penal code’ in the way that mainstream debt does so Kiva money need know
 no borders. Yet, however great the significant change in the
-circumstances of borrower, Kiva money is *micro*-finance and does not
+circumstances of borrower, Kiva money is _micro_-finance and does not
 yet scale to major community infrastructure projects.
 
 ### On Philanthropy…
@@ -495,8 +494,7 @@ expecting a return for their investment, whereas organisations like Kiva
 facilitate ‘altruistic’ philanthropy, characterised by the direction of
 funds, with Zopa sitting somewhere between these two poles.[^26]
 
-Case Study: Open Capital
-------------------------
+## Case Study: Open Capital
 
 > “The incorporation of Co-operative Principles gives us a Co-operative
 > Corporate Partnership: this entity is capable of underpinning a truly
@@ -539,9 +537,9 @@ others.
 > or 5%. Note firstly that there is no Debt and no Interest in this
 > structure and the risks and rewards are shared as in all true
 > partnerships. The outcome is therefore to create ‘Temporary Equity’
-> with a 27 year term. *Most crucially, it is in the interests of both
+> with a 27 year term. _Most crucially, it is in the interests of both
 > Occupiers and Investors to co-operate in order to create the maximum
-> flow of revenue over the period of the agreement.*[^29]
+> flow of revenue over the period of the agreement._[^29]
 
 This Labour government’s flagship Public Private Partnerships (PPP) and
 Private Finance Initiatives (PFIs) have been criticised for enriching
@@ -553,7 +551,7 @@ the interests of government spending on civic services can be reconciled
 with the logic of private capital. As Ruth Sunderland comments, the
 “bailout of Metronet, which maintained nine tube lines, exposes the
 utter fiction that Public Private Partnerships and PFI projects transfer
-risk and debt *away* from the public sector.”[^30]
+risk and debt _away_ from the public sector.”[^30]
 
 In contrast to PPPs and PFIs, the Open Capital / Limited Liability
 Partnership model offers a possitive possibility for public capital
@@ -582,8 +580,7 @@ sociable LLPs, from community land partnerships to the London 2012
 Olympics, even private housing projects, on the Open Capital
 website.[^32]
 
-To what extent can capital be democratised?
-===========================================
+# To what extent can capital be democratised?
 
 I am considering two aspects of democracy when evaluating the
 democratising potential of these peer-2-peer and social models. I am
@@ -606,7 +603,7 @@ forums, offering peer-support to new-commers and seasoned members. Key
 members of the user community are regularly invited to meet with the
 Zopa team in person and have a voice in the development of the business.
 However the Zopa model does not ‘open up’ credit to a greater number of
-people, rather, it is an innovative *alternative* to the mainstream
+people, rather, it is an innovative _alternative_ to the mainstream
 models.
 
 Kiva, in contrast, is radically opening up access to capital.
@@ -639,19 +636,19 @@ prioritise people, machines and money, in that order.
 
 Capra, Frank. 1947. “It’s a Wonderful Life.” Film.
 
-Cattermole, Al. 2004. “UK Banks’ Write-Offs of Bad Debt.” *Bank of
-England, Monetary & Financial Statistics*, September.
+Cattermole, Al. 2004. “UK Banks’ Write-Offs of Bad Debt.” _Bank of
+England, Monetary & Financial Statistics_, September.
 <http://www.bankofengland.co.uk/statistics/ms/articles/artsep04.pdf>.
 
 Committee for Radical Diplomacy, The. 2007. “Speculating on Student
-Debt.” In *Living in a Bubble*, edited by Josephine Berry Slater, 24–31.
+Debt.” In _Living in a Bubble_, edited by Josephine Berry Slater, 24–31.
 London & www.metamute.org: Mute Publishing.
 
 Cook, Chris. 2004. “Co-Operative Corporate Partnerships - a Very British
 Revolution.”
 <http://www.opencapital.net/papers/cooperativecapitalism.htm>.
 
-Galbraith, John Kenneth. 1975. *Money: Whence It Came, Where It Went*.
+Galbraith, John Kenneth. 1975. _Money: Whence It Came, Where It Went_.
 Boston, MA: Houghton Mifflin.
 
 Grignon, Paul. 2006. “Money as Debt.” Film.
@@ -663,39 +660,38 @@ Hart, Keith. 2005. “The Hit Man’s Dilemma (Abridged).”
 ———. 2007. “Money Is Always Social, Global and Virtual,” 10th October.
 Blog entry. <http://www.thememorybank.co.uk/2007/10/09>.
 
-Hawkes, Alex. 2007. “Profile: Giles Andrews, Cfo of Zopa.” *Accountancy
-Age*, 29th March. <http://www.accountancyage.com>.
+Hawkes, Alex. 2007. “Profile: Giles Andrews, Cfo of Zopa.” _Accountancy
+Age_, 29th March. <http://www.accountancyage.com>.
 
 Hulme, Michael K., and Collette Wright. 2006. “Internet Based Social
-Lending: Past, Present and Future.” *Social Futures Observatory*.
+Lending: Past, Present and Future.” _Social Futures Observatory_.
 <http://www.socialfuturesobservatory.co.uk>.
 
-Polanyi, Karl. 1957. *The Great Transformation*. Boston: Beacon Press
+Polanyi, Karl. 1957. _The Great Transformation_. Boston: Beacon Press
 Books.
 
-Porta, Donatella della, and Mario Diani. 2006. *Social Movements : An
-Introduction*. Malden, MA: Blackwell.
+Porta, Donatella della, and Mario Diani. 2006. _Social Movements : An
+Introduction_. Malden, MA: Blackwell.
 
-Sen, Amartya. 1999. *Development as Freedom*. Oxford: Oxford University
+Sen, Amartya. 1999. _Development as Freedom_. Oxford: Oxford University
 Press.
 
-Sunderland, Ruth. 2008. “Business Comment - Northern Rock.” *Guardian*.
+Sunderland, Ruth. 2008. “Business Comment - Northern Rock.” _Guardian_.
 Guardian newspaper.
 <http://www.guardian.co.uk/business/2008/feb/10/businesscomment.northernrock>.
 
 ## Footnotes
 
 [^1]: Hart (2005), 6
-
 [^2]: Polanyi (1957), 195
-
 [^3]: Hart 2007 Weblog entry, 9th October (2007)
-
-[^4]: See report from the Bank of England’s Monetary and Financial
+[^4]:
+    See report from the Bank of England’s Monetary and Financial
     Statistics Division & Monetary Assessment and Strategy Division on
     narrow money data.
 
-[^5]: RFID-enabled smart cards such as the Transport for London TfL
+[^5]:
+    RFID-enabled smart cards such as the Transport for London TfL
     Oyster system are facilitating the development of a cashless
     society. The partnership between Barclays Bank and TfL to converge
     micro-payment facilities, credit cards and Oyster information on the
@@ -703,76 +699,70 @@ Guardian newspaper.
     in which virtual financial services are heading.
 
 [^6]: Polanyi (1957) Ch. 6
-
 [^7]: Galbraith (1975), 29
-
-[^8]: “Banknotes are protected by the penal code.” Printed on every
+[^8]:
+    “Banknotes are protected by the penal code.” Printed on every
     Swiss banknote. Translation thanks to Elizabeth Trott.
 
-[^9]: The Baily Savings and Loan is the social lending institution in
-    *It’s a Wonderful Life* Capra (1947)
+[^9]:
+    The Baily Savings and Loan is the social lending institution in
+    _It’s a Wonderful Life_ Capra (1947)
 
 [^10]: Polanyi (1957), 69
-
 [^11]: Grignon (2006)
-
-[^12]: The choice of precious minerals for the names of tiers of service
+[^12]:
+    The choice of precious minerals for the names of tiers of service
     is an insight to the history of banks as simply safe places to store
     these valuable commodities
 
-[^13]: For an insightful vignette on the affect on the individual of
+[^13]:
+    For an insightful vignette on the affect on the individual of
     credit scoring see “Speculating on Student Debt”, The Committee for
     Radical Diplomacy (2007)
 
 [^14]: Zopa website
-
-[^15]: See
+[^15]:
+    See
     <http://uk.zopa.com/ZopaWeb/public/about-zopa/how-it-works.html>.
     Accessed Apr 13th 2008
 
 [^16]: Zopa listings: <http://uk.zopa.com/ZopaWeb/Listings/>
-
-[^17]: ZOPA runs a low level of bad debt at just 0.05%. against an
+[^17]:
+    ZOPA runs a low level of bad debt at just 0.05%. against an
     industry average of 0/5%. Sources: Hawkes 2007 and Cattermole
     2004
 
-[^18]: Notes from interview with Giles Andrews and quantative analysis
+[^18]:
+    Notes from interview with Giles Andrews and quantative analysis
     in Hulme and Wright (2006)
 
-[^19]: See ’Zopa - How we make our money’
+[^19]:
+    See ’Zopa - How we make our money’
     <http://uk.zopa.com/zopaweb/public/about-zopa/how-does-zopa-make-money.html>
 
 [^20]: Kiva website
-
 [^21]: See Kiva.org <http://www.kiva.org/about/risk__partnerRole>
-
 [^22]: Source: <http://www.kiva.org/about/risk/overview>
-
-[^23]: Founder of Grameen Bank microcredit institution in India who
+[^23]:
+    Founder of Grameen Bank microcredit institution in India who
     promotes access to credit as fundamental human right.
     <http://www.grameen-info.org/>
 
 [^24]: Sen (1999)
-
-[^25]: For a recent review of New Social Movements see Porta and Diani
+[^25]:
+    For a recent review of New Social Movements see Porta and Diani
     (2006).
 
-[^26]: For an extended discussion of Strategic and Altruistic
+[^26]:
+    For an extended discussion of Strategic and Altruistic
     Philanthropy as it relates to social lending see Hulme and Wright
     (2006).
 
 [^27]: Cook (2004), 2
-
 [^28]: Cook (2004), 6
-
 [^29]: Cook (2004), 10. My emphasis.
-
 [^30]: Sunderland (2008)
-
 [^31]: Cook (2004), 17
-
 [^32]: <http://www.opencapital.net/co-ownership.htm>
-
 [^33]: Hulme and Wright (2006)
-
 [^34]: Hart (2005), 6

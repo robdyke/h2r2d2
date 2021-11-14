@@ -1,19 +1,19 @@
 ---
-author: "Rob Dyke"
+author: Rob Dyke
 date: "2010-05-05T13:44:39Z"
 categories:
   - Brent East Campaigning
 tags:
-tags:
-- Leaflets
-- Stonebridge
-- Labour
-- Dawn Butler
-- Election 2010
-title: Dawn Butler's hoarding at Unisys, Brentfield
+  - Leaflets
+  - Stonebridge
+  - Labour
+  - Dawn Butler
+  - Election 2010
+title: "Dawn Butler's hoarding at Unisys, Brentfield"
+lastmod: "2021-11-14"
 ---
-Is back on its legs.
 
+Is back on its legs.
 
 {{< figure src="/pubfiles/2010/05/P1000517-624x468.jpg" >}}
 

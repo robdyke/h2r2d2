@@ -18,7 +18,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: rob dyke dot com
   description: "this is rob dyke dot com"
-  keywords: [Blog]
+  keywords: [Open source, Hacker, NHoS]
   author: "Rob Dyke"
   # author: ["Me", "You"] # multiple authors
   images: ["/rdprofile.jpg"]
@@ -101,8 +101,8 @@ params:
   #     SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: false # hide everywhere but not in structured data
-    hiddenInList: false # hide on list pages and home
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
   editPost:

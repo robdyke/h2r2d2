@@ -1,11 +1,13 @@
 ---
-authors: [robdyke]
-date: 2021-03-30
-title: Responsible Disclosure - Part 1
-description: "TL;DR. I found secret info on github, notified the owner, and found out the hard way that UK cyber law is broken. Part 1 of ...?"
+author: "Rob Dyke"
+date: 2021-03-30T00:00:00.000Z
+title: Responsible Disclosure
+description: 'TL;DR. I found secret info on github, notified the owner, and found out the hard way that UK cyber law is broken. Part 1 of ...?'
 slug: responsible-disclosure
 categories: Disclosure
+lastmod: '2021-11-14'
 ---
+
 ## How it started
 
 Late February I discovered a public repository on github with a similar name to an Organisation I follow. Intrigued, I forked the repo and cloned it. I took a look at the `git log`. There were approximately 2 years of commits from three authors to two branches (`master` and `◼️◼️◼️◼️◼️◼️◼️◼️`). Although I didn't recognise the github user that published the repo, the email address of the Authors were familiar.
@@ -37,4 +39,3 @@ All good.
 ## How it's going?
 
 See part two...
-
