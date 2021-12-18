@@ -1,21 +1,21 @@
 ---
 title: About
 draft: false
-# weight: 1
-# aliases: ["/first"]
-tags: [""]
-author: "Rob Dyke"
+tags:
+    - ''
+author: Rob Dyke
 showToc: false
 TocOpen: false
 hidemeta: false
 comments: false
-disableHLJS: true # to disable highlightjs
+disableHLJS: true
 disableShare: false
 hideSummary: false
 searchHidden: true
 ShowReadingTime: true
-ShowBreadCrumbs: true
+ShowBreadCrumbs: false
 ShowPostNavLinks: true
+lastmod: '2021-12-18T19:26:25.263Z'
 ---
 30,000 hours of open source hackery, 10,000 of them in health and care tech. I co-founded a [tech company](https://neovahealth.co.uk) that created [open eObs](https://openeobs.github.io/) and made [NHoS / NHSbuntu](https://nhos-project.github.io/) - an OS for the NHS. These days I research the security and privacy of apps listed in the [NHS Apps Library](https://robdyke.com/NHS-Apps-Library/).
 

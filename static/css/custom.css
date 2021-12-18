@@ -1,0 +1,8 @@
+.first-entry {
+    min-height: 24px;
+}
+
+.social-icons {
+    display:flex;
+    justify-content: center;
+}

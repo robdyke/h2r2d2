@@ -1,6 +1,6 @@
 baseURL: "https://robdyke.com/"
 title: this is rob dyke dot com
-paginate: 10
+paginate: 5
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -27,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: false
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
@@ -49,9 +49,9 @@ params:
     # safari_pinned_tab: "apple-icon.png"
 
   label:
-    text: "Home"
+    text: "this is rob dyke dot com"
     icon: "/logo.png"
-    iconHeight: 35px
+    iconHeight: 30px
 
   # profile-mode
   profileMode:
