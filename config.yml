@@ -27,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: false
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: false
@@ -70,7 +70,7 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "this is rob dyke dot com 🐧"
+    # Title: "this is rob dyke dot com 🐧"
     Content: 
 
   socialIcons:
