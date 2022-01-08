@@ -1,0 +1,18 @@
+{
+    "frontMatter.templates.folder": "archetypes",
+    "frontMatter.templates.prefix": "yyyy-MM-dd",
+    "frontMatter.taxonomy.dateFormat": "yyyy-MM-dd",
+    "frontMatter.content.draftField": {
+        "name": "draft",
+        "type": "boolean"
+    },
+    "frontMatter.content.pageFolders": [
+            
+            {
+        "title": "Blog posts",
+        "path": "[[workspace]]/content/posts"
+      }
+    ],
+    "frontMatter.framework.id": "hugo",
+    "frontMatter.site.baseURL": "robdyke.com"
+}
